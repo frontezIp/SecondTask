@@ -1,0 +1,11 @@
+﻿<AutoStation>
+	<category type="Thermal">
+		<Supply type="Milk" weight="1" count="40" tempretureMin="4" tempetureMax="10">
+			<Supply type="Fish" weight="4" count="20" tempretureMin="-10" tempetureMax="-5" />
+			<Semitrailer type="Refregerator" LiftingCapacity="600" VolumeOfSemitrailer="200" CurrentWeight="0" CurrentVolume="0" tempretureMin="0" tempretureMax="0" />
+			<Tractor type="TractorOne" MaxTrailerCapacity="0" Connected="null">
+				<Model HorsePower="500" WeightOfTractor="300" Name="Mersedes" />
+			</Tractor>
+		</Supply>
+	</category>
+</AutoStation>
